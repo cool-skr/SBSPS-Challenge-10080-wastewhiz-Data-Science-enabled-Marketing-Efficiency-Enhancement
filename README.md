@@ -18,3 +18,6 @@ The link can be opened in any browser.
 
 # Output
 ![WhatsApp Image 2023-08-31 at 10 46 37](https://github.com/smartinternz02/SBSPS-Challenge-10080-wastewhiz-Data-Science-enabled-Marketing-Efficiency-Enhancement/assets/143480282/b07a6b14-93b7-4b00-abc1-856656d20b94)
+
+# Results 
+We were one among the top 40 teams selected for the finals among the 1500+ participants
